@@ -116,11 +116,11 @@ Example: `POL-MA-19980112`
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ User login for security.
-- ✅ View a formatted table of all employees.
-- ✅ Search employee by ID.
-- ✅ Add new employees with validation.
-- ✅ Update employee data by field.
-- ✅ Delete employee records with confirmation.
+- User login for security.
+- View a formatted table of all employees.
+- Search employee by ID.
+- Add new employees with validation.
+- Update employee data by field.
+- Delete employee records with confirmation.
